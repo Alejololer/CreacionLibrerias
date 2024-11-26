@@ -1,0 +1,11 @@
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\bin\Debug\net8.0\CreaciónLibrerías.deps.json
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\bin\Debug\net8.0\CreaciónLibrerías.dll
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\bin\Debug\net8.0\CreaciónLibrerías.pdb
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\obj\Debug\net8.0\CreaciónLibrerías.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\obj\Debug\net8.0\CreaciónLibrerías.AssemblyInfoInputs.cache
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\obj\Debug\net8.0\CreaciónLibrerías.AssemblyInfo.cs
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\obj\Debug\net8.0\CreaciónLibrerías.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\obj\Debug\net8.0\CreaciónLibrerías.dll
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\obj\Debug\net8.0\refint\CreaciónLibrerías.dll
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\obj\Debug\net8.0\CreaciónLibrerías.pdb
+C:\Users\Alejo\source\repos\CreaciónLibrerías\CreaciónLibrerías\obj\Debug\net8.0\ref\CreaciónLibrerías.dll

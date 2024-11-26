@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreaciónLibrerías", "CreaciónLibrerías\CreaciónLibrerías.csproj", "{0C29DCED-AB34-4CC8-A5A3-564A192D2523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Xunit\Tests.csproj", "{256DDF7E-4AD7-4662-8E2E-952E82181B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C29DCED-AB34-4CC8-A5A3-564A192D2523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C29DCED-AB34-4CC8-A5A3-564A192D2523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C29DCED-AB34-4CC8-A5A3-564A192D2523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C29DCED-AB34-4CC8-A5A3-564A192D2523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256DDF7E-4AD7-4662-8E2E-952E82181B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256DDF7E-4AD7-4662-8E2E-952E82181B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256DDF7E-4AD7-4662-8E2E-952E82181B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256DDF7E-4AD7-4662-8E2E-952E82181B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C777AB3-2935-44BE-BAF0-7D757CBF5E26}
+	EndGlobalSection
+EndGlobal
