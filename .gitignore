@@ -8,3 +8,7 @@
 /.vs/MiLibreria/DesignTimeBuild
 /.vs/MiLibreria/FileContentIndex
 /.vs/MiLibreria/v17/TestStore/0
+/CreaciónLibrerías/obj/Release/net8.0
+/Xunit/bin/Release/net8.0
+/Xunit/obj/Release/net8.0
+/CreaciónLibrerías/bin/Release/net8.0
